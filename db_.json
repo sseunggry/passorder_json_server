@@ -1,0 +1,3811 @@
+{
+  "store": [
+    {
+      "id": "paris",
+      "logo": "logo_paris",
+      "brand": "파리바게트 신풍역점",
+      "infoList": {
+        "rating": 4.9,
+        "review": 388,
+        "distance": "50m"
+      },
+      "badge": [
+        {
+          "text": "할인",
+          "color": "blue"
+        },
+        {
+          "text": "적립",
+          "color": "pink"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "파리바게트 신풍역점",
+        "delivery": "13~28분",
+        "location": "서울특별시 영등포구 신길동 4950",
+        "location2": "신길동, 래미안에스티움 신길7구역 상가 A동 지하2층 105호",
+        "time": "매일 10:00 ~ 23:00",
+        "closed": "연중무휴",
+        "introduce": "파리바게뜨 픽업 서비스는 점포별 운영 정책에 따라 실제 매장에 판매되는 가격보다 낮거나, 높을 수 있습니다."
+      },
+      "productList": [
+        {
+          "categoryId": "bakery",
+          "category": "크림/소보루/팥 옛날빵",
+          "list": [
+            {
+              "productId": "1",
+              "name": "후레쉬크림샌드빵",
+              "desc": "부드럽고 달콤한 크림을 먹기 좋은 크기로 샌드한 간식용빵",
+              "price": 5700,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png"
+            },
+            {
+              "productId": "2",
+              "name": "소보루빵",
+              "desc": "고소한 소보루 가루가 뿌려진 기본 간식빵",
+              "price": 1900,
+              "thumbImg": "img_detail_thumb_2.png"
+            },
+            {
+              "productId": "3",
+              "name": "단팥빵",
+              "desc": "단팥앙금이 부드러운 빵 안에 들어있어 달콤하게 즐길 수 있는 간식용빵",
+              "price": 1900,
+              "thumbImg": "img_detail_thumb_3.png"
+            },
+            {
+              "productId": "4",
+              "name": "슈크림빵",
+              "desc": "부드러운 슈크림이 들어있는 간식 빵",
+              "price": 1900,
+              "thumbImg": "img_detail_thumb_4.png"
+            }
+          ]
+        },
+        {
+          "categoryId": "bakery2",
+          "category": "치즈/소세지/고로케/도넛",
+          "list": [
+            {
+              "productId": "1",
+              "name": "추억의 소시지빵",
+              "desc": "부드러운 빵과 롱소시지, 옥수수마요 토핑이 조화로운 아는 맛이 더 무서운 추억의 소시지 빵",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_5.png"
+            },
+            {
+              "productId": "2",
+              "name": "치즈소시지 페스츄리",
+              "desc": "'사이즈 UP 더 커진 소시지' 탱글짭조름한 소시지가 통으로 사이즈 업, 더 맛있어진 치즈소시지페스츄리",
+              "price": 3700,
+              "thumbImg": "img_detail_thumb_6.png",
+              "remainCount": 3
+            },
+            {
+              "productId": "3",
+              "name": "명품고기잡채고로케",
+              "desc": "파리바게뜨의 대표고로케. 고소한 잡채 안에 돼지고기와 소고기를 넣어 더 맛있는 고로케",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_7.png"
+            },
+            {
+              "productId": "4",
+              "name": "쫀득치즈스틱(3개입)",
+              "desc": "쫄깃쫄깃 은은한 치즈풍미가 매력적인 쫄깃담백 치즈스틱",
+              "price": 3000,
+              "thumbImg": "img_detail_thumb_8.png"
+            }
+          ]
+        },
+        {
+          "categoryId": "bakery3",
+          "category": "베이글/소금빵/페스츄리/바게뜨",
+          "list": [
+            {
+              "productId": "1",
+              "name": "두 번 쫄깃 플레인베이글",
+              "desc": "겉과 속이 두 번 쫄깃한 플레인 베이글",
+              "price": 2800,
+              "thumbImg": "img_detail_thumb_9.png"
+            },
+            {
+              "productId": "2",
+              "name": "크림치즈 프레즐",
+              "desc": "쫄깃 담백한 프레즐에 크림치즈를 듬뿍 넣어 꾸덕한 식감이 매력적인 크림치즈 프레즐",
+              "price": 1900,
+              "thumbImg": "img_detail_thumb_10.png",
+              "remainCount": 2
+            },
+            {
+              "productId": "3",
+              "name": "발효버터 소금빵",
+              "desc": "발효버터를 넣은 반죽을 고온에 구워 속은 촉촉, 빵 밑면은 바삭 두 가지 식감과 고소한 풍미를 느낄 수 있는 소금빵",
+              "price": 3000,
+              "thumbImg": "img_detail_thumb_11.png"
+            },
+            {
+              "productId": "4",
+              "name": "촉촉한 몽블랑",
+              "desc": "겹겹이 쌓인 결 사이로 버터풍미 가득한, 촉촉하게 즐기는 버터 몽블랑",
+              "price": 5400,
+              "thumbImg": "img_detail_thumb_12.png"
+            }
+          ]
+        }
+      ],
+      "recent": true
+    },
+    {
+      "id": "tencent",
+      "logo": "logo_tencent",
+      "brand": "텐퍼센트 보라매타운점",
+      "infoList": {
+        "rating": 4.85,
+        "review": 11,
+        "distance": "82m"
+      },
+      "badge": [
+        {
+          "text": "할인",
+          "color": "blue"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "텐퍼센트 보라매타운점(Ten Percent)",
+        "delivery": "13~37분",
+        "location": "서울특별시 동작구 신대방동 395-66 상가동 1층 101-2호",
+        "location2": "신대방동, 보라매삼성쉐르빌",
+        "time": "주말 10:00 ~ 18:00, 평일 13:00 ~ 19:00",
+        "closed": "연중무휴",
+        "introduce": "안녕하세요. 텐퍼센트커피 보라매타운점 입니다. 가게 위치는 보라매로5길 43에 있습니다. 언제나 신선하고 좋은 재로를 사용하여 맛있는 음식을 선보이겠습니다."
+      },
+      "productList": [
+        {
+          "categoryId": "coffee",
+          "category": "커피",
+          "list": [
+            {
+              "productId": "1",
+              "name": "아메리카노",
+              "desc": "진하게 로스팅한 커피 원두에서 에스프레소를 추출하여 원두 풍미를 느낄 수 있습니다.",
+              "price": 4000,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "카페라떼",
+              "desc": "진하게 로스팅한 커피 원두에서 에스프레소를 추출하여 원두 풍미를 느낄 수 있습니다.",
+              "price": 4000,
+              "thumbImg": "img_detail_thumb_2.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "카페모카",
+              "desc": "진한 초콜릿 모카 시럽과 풍부하고 진한 농도의 에스프레소를 혼합하여 달달하게 즐길 수 있습니다.",
+              "price": 5800,
+              "thumbImg": "img_detail_thumb_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "아인슈페너",
+              "desc": "진한 초콜릿 모카 시럽과 풍부하고 진한 농도의 에스프레소를 혼합하여 달달하게 즐길 수 있습니다.",
+              "price": 5300,
+              "thumbImg": "img_detail_thumb_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "coldbrew",
+          "category": "콜드브루",
+          "list": [
+            {
+              "productId": "1",
+              "name": "콜드브루",
+              "price": 5000,
+              "thumbImg": "img_detail_thumb_5.png"
+            },
+            {
+              "productId": "2",
+              "name": "디카페인 콜드브루",
+              "price": 5000,
+              "thumbImg": "img_detail_thumb_6.png"
+            },
+            {
+              "productId": "3",
+              "name": "콜드브루 라떼",
+              "price": 5500,
+              "thumbImg": "img_detail_thumb_7.png"
+            },
+            {
+              "productId": "4",
+              "name": "디카페인 콜드브루 라떼",
+              "price": 5500,
+              "thumbImg": "img_detail_thumb_8.png"
+            }
+          ]
+        },
+        {
+          "categoryId": "bakery",
+          "category": "베이커리",
+          "list": [
+            {
+              "productId": "1",
+              "name": "크랜베리 크림치즈 스콘",
+              "desc": "진한 크림치즈와 크랜베리의 새콤달콤 풍미가 조화롭게 어울리는 스콘",
+              "price": 5600,
+              "thumbImg": "img_detail_thumb_5.png"
+            },
+            {
+              "productId": "2",
+              "name": "데니쉬 큐브식빵 플레인",
+              "desc": "바삭하고 부드러운 페스츄리 식빵",
+              "price": 5500,
+              "thumbImg": "img_detail_thumb_6.png",
+              "remainCount": 5
+            },
+            {
+              "productId": "3",
+              "name": "클래식 초코 머핀",
+              "desc": "겹겹이 쌓인 결 사이로 고소한 버터 풍미가 가득차 겉은 바삭하고 속은 부드러운 머핀",
+              "price": 4300,
+              "thumbImg": "img_detail_thumb_7.png"
+            },
+            {
+              "productId": "4",
+              "name": "올리브 바질 베이글",
+              "desc": "은은한 바질향이 산뜻하게 풍기는 베이글",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_8.png",
+              "remainCount": 2
+            }
+          ]
+        }
+      ],
+      "recent": true
+    },
+    {
+      "id": "yogurt",
+      "logo": "logo_yogurt",
+      "brand": "요거트 아이스크림 대방점",
+      "infoList": {
+        "rating": 5.0,
+        "review": 158,
+        "distance": "120m"
+      },
+      "badge": [
+        {
+          "text": "적립",
+          "color": "pink"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "카페 요아정 대방점",
+        "delivery": "12~33분",
+        "location": "서울특별시 동작구 대방동 339-1 103호",
+        "location2": "대방동, 솔표빌딩",
+        "time": "매일 10:00 ~ 24:00",
+        "closed": "연중무휴",
+        "introduce": "- 항상 위생과 청결을 우선으로 합니다!! \n -직접 제조하는 프리미엄 수제 요거트 아이스크림과 신선한 과일 및 맛있는 토핑들의 환상 조합!!"
+      },
+      "productList": [
+        {
+          "categoryId": "set",
+          "category": "세트메뉴",
+          "list": [
+            {
+              "productId": "1",
+              "name": "겉바속촉 초코쉘 세트",
+              "desc": "초코쉘+요거트 아이스크림",
+              "price": 6000,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "1인분+쉘20g",
+                      "price": 0
+                    },
+                    {
+                      "option": "2인분+쉘40g",
+                      "price": 5000
+                    },
+                    {
+                      "option": "3인분+쉘60g",
+                      "price": 9500
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "수저포크 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "숟가락 O",
+                      "price": 0
+                    },
+                    {
+                      "option": "숟가락 X",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "생과일 토핑 선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "샤인머스켓",
+                      "price": 4500
+                    },
+                    {
+                      "option": "블루베리(30g)",
+                      "price": 3000
+                    },
+                    {
+                      "option": "멜론",
+                      "price": 4000
+                    },
+                    {
+                      "option": "자몽",
+                      "price": 3500
+                    },
+                    {
+                      "option": "오렌지",
+                      "price": 3500
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "스낵류 토핑 선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "real 벌집꿀",
+                      "price": 4500
+                    },
+                    {
+                      "option": "슈팅스타 팝팝톡톡",
+                      "price": 1500
+                    },
+                    {
+                      "option": "치즈케익 큐브",
+                      "price": 2500
+                    },
+                    {
+                      "option": "초코 브라우니",
+                      "price": 1500
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "시럽 추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "사양벌꿀",
+                      "price": 1000
+                    },
+                    {
+                      "option": "수제 딸기청",
+                      "price": 1500
+                    },
+                    {
+                      "option": "초코 시럽",
+                      "price": 1000
+                    },
+                    {
+                      "option": "밀크 연유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "겉바속촉 체리쉘 세트",
+              "desc": "체리쉘+요거트 아이스크림",
+              "price": 6000,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "1인분+쉘20g",
+                      "price": 0
+                    },
+                    {
+                      "option": "2인분+쉘40g",
+                      "price": 5000
+                    },
+                    {
+                      "option": "3인분+쉘60g",
+                      "price": 9500
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "수저포크 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "숟가락 O",
+                      "price": 0
+                    },
+                    {
+                      "option": "숟가락 X",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "생과일 토핑 선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "샤인머스켓",
+                      "price": 4500
+                    },
+                    {
+                      "option": "블루베리(30g)",
+                      "price": 3000
+                    },
+                    {
+                      "option": "멜론",
+                      "price": 4000
+                    },
+                    {
+                      "option": "자몽",
+                      "price": 3500
+                    },
+                    {
+                      "option": "오렌지",
+                      "price": 3500
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "스낵류 토핑 선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "real 벌집꿀",
+                      "price": 4500
+                    },
+                    {
+                      "option": "슈팅스타 팝팝톡톡",
+                      "price": 1500
+                    },
+                    {
+                      "option": "치즈케익 큐브",
+                      "price": 2500
+                    },
+                    {
+                      "option": "초코 브라우니",
+                      "price": 1500
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "시럽 추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "사양벌꿀",
+                      "price": 1000
+                    },
+                    {
+                      "option": "수제 딸기청",
+                      "price": 1500
+                    },
+                    {
+                      "option": "초코 시럽",
+                      "price": 1000
+                    },
+                    {
+                      "option": "밀크 연유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "best",
+          "category": "인기조합",
+          "list": [
+            {
+              "productId": "1",
+              "name": "자몽 요거트 아이스크림",
+              "price": 5000,
+              "thumbImg": "img_detail_thumb_3.png",
+              "visualImg": "img_detail_visual_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "가격",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "1인(150g)",
+                      "price": 9500
+                    },
+                    {
+                      "option": "2인(300g)",
+                      "price": 13000
+                    },
+                    {
+                      "option": "3인(450g)",
+                      "price": 16000
+                    },
+                    {
+                      "option": "4인(600g)",
+                      "price": 18000
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "토핑 추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "달고나",
+                      "price": 1000
+                    },
+                    {
+                      "option": "로투스 크럼블(30g)",
+                      "price": 1000
+                    },
+                    {
+                      "option": "오레오크럼블(30g)",
+                      "price": 1500
+                    },
+                    {
+                      "option": "빙수떡(50g)",
+                      "price": 1000
+                    },
+                    {
+                      "option": "꿀소스(30g)",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "애플망고 요거트 아이스크림",
+              "price": 5000,
+              "thumbImg": "img_detail_thumb_4.png",
+              "visualImg": "img_detail_visual_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "가격",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "1인(150g)",
+                      "price": 13500
+                    },
+                    {
+                      "option": "2인(300g)",
+                      "price": 17000
+                    },
+                    {
+                      "option": "3인(450g)",
+                      "price": 20000
+                    },
+                    {
+                      "option": "4인(600g)",
+                      "price": 22000
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "토핑 추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "달고나",
+                      "price": 1000
+                    },
+                    {
+                      "option": "로투스 크럼블(30g)",
+                      "price": 1000
+                    },
+                    {
+                      "option": "오레오크럼블(30g)",
+                      "price": 1500
+                    },
+                    {
+                      "option": "빙수떡(50g)",
+                      "price": 1000
+                    },
+                    {
+                      "option": "꿀소스(30g)",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "recent": true
+    },
+    {
+      "id": "mammoth",
+      "logo": "logo_mammoth",
+      "brand": "매머드 익스프레스 보라매자이점",
+      "infoList": {
+        "rating": 4.85,
+        "review": 45,
+        "distance": "10m"
+      },
+      "badge": [
+        {
+          "text": "할인",
+          "color": "blue"
+        },
+        {
+          "text": "적립",
+          "color": "pink"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "매머드 익스프레스 보라매자이점",
+        "delivery": "13~37분",
+        "location": "서울특별시 동작구 신대방동 724 단지 내 상가, 1층 1221호",
+        "location2": "신대방동, 보라매자이 더 포레스트",
+        "time": "매일 08:10 ~ 20:20",
+        "closed": "연중무휴",
+        "introduce": "매머드익스프레스 보라매자이점 \n 배달 특성상 휘핑크림은 제외하고 배달되오니 주문 시 참고 부탁드립니다."
+      },
+      "productList": [
+        {
+          "categoryId": "coffee",
+          "category": "커피",
+          "list": [
+            {
+              "productId": "1",
+              "name": "아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 2600,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 1400
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드시럽 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "바닐라 오트라떼",
+              "desc": "에스프레소와 바닐라 향을 부드럽게 즐길 수 있는 바닐라 오트라떼",
+              "price": 4900,
+              "thumbImg": "img_detail_thumb_2.png",
+              "visualImg": "img_detail_visual_2.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "아몬드시럽 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 샷추가",
+                      "price": 400
+                    },2
+                    {
+                      "option": "꿀 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 3700,
+              "thumbImg": "img_detail_thumb_3.png",
+              "visualImg": "img_detail_visual_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "우유옵션",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "우유(기본)",
+                      "price": 0
+                    },
+                    {
+                      "option": "두유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈로 변경",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드로 변경",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "선택한 우유 추가(50ml)",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "아인슈페너",
+              "desc": "고소하고 진한 커피 위에 바닐라빈의 풍미를 담은 쫀득한 수제 크림이 얹어져, 입안 가득 조화롭게 어우러지는 매력적인 크림 커피",
+              "price": 5300,
+              "thumbImg": "img_detail_thumb_4.png",
+              "visualImg": "img_detail_visual_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "두유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드 추가",
+                      "price": 800
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "decafein",
+          "category": "디카페인",
+          "list": [
+            {
+              "productId": "1",
+              "name": "디카페인 아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_5.png",
+              "visualImg": "img_detail_visual_5.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "디카페인 카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 4400,
+              "thumbImg": "img_detail_thumb_6.png",
+              "visualImg": "img_detail_visual_6.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "디카페인 꿀라떼",
+              "desc": "카페라떼와 꿀이 만나 입안에서 달콤하고 고소함을 한번에 즐길 수 있는 음료",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_7.png",
+              "visualImg": "img_detail_visual_7.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "디카페인 아몬드 라떼",
+              "desc": "카페라떼에 아몬드를 더 해 고소함이 두배가 된 라떼",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_8.png",
+              "visualImg": "img_detail_visual_8.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nearby": true
+    },
+    {
+      "id": "banapresso",
+      "logo": "logo_banapresso",
+      "brand": "바나프레소 보라매역점",
+      "infoList": {
+        "rating": 4.8,
+        "review": 40,
+        "distance": "12m"
+      },
+      "badge": [
+        {
+          "text": "할인",
+          "color": "blue"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "바나프레소 보라매역점",
+        "delivery": "13~37분",
+        "location": "서울특별시 동작구 여의대방로 140 1층",
+        "location2": "대방동",
+        "time": "매일 07:00 ~ 22:00",
+        "closed": "연중무휴",
+        "introduce": "바나프레소는 '나를 위한 프리미엄 커피'라는 브랜드 슬로건하에 '하이퀄리티.빅사이즈.맛있는 제품'을 합리적인 가격에 제공하는 커피&디저트 브랜드입니다."
+      },
+      "productList": [
+        {
+          "categoryId": "coffee",
+          "category": "커피",
+          "list": [
+            {
+              "productId": "1",
+              "name": "아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 2600,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 1400
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드시럽 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "바닐라 오트라떼",
+              "desc": "에스프레소와 바닐라 향을 부드럽게 즐길 수 있는 바닐라 오트라떼",
+              "price": 4900,
+              "thumbImg": "img_detail_thumb_2.png",
+              "visualImg": "img_detail_visual_2.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "아몬드시럽 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 샷추가",
+                      "price": 400
+                    },2
+                    {
+                      "option": "꿀 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 3700,
+              "thumbImg": "img_detail_thumb_3.png",
+              "visualImg": "img_detail_visual_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "우유옵션",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "우유(기본)",
+                      "price": 0
+                    },
+                    {
+                      "option": "두유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈로 변경",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드로 변경",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "선택한 우유 추가(50ml)",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "아인슈페너",
+              "desc": "고소하고 진한 커피 위에 바닐라빈의 풍미를 담은 쫀득한 수제 크림이 얹어져, 입안 가득 조화롭게 어우러지는 매력적인 크림 커피",
+              "price": 5300,
+              "thumbImg": "img_detail_thumb_4.png",
+              "visualImg": "img_detail_visual_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "두유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드 추가",
+                      "price": 800
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "decafein",
+          "category": "디카페인",
+          "list": [
+            {
+              "productId": "1",
+              "name": "디카페인 아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_5.png",
+              "visualImg": "img_detail_visual_5.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "디카페인 카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 4400,
+              "thumbImg": "img_detail_thumb_6.png",
+              "visualImg": "img_detail_visual_6.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "디카페인 꿀라떼",
+              "desc": "카페라떼와 꿀이 만나 입안에서 달콤하고 고소함을 한번에 즐길 수 있는 음료",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_7.png",
+              "visualImg": "img_detail_visual_7.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "디카페인 아몬드 라떼",
+              "desc": "카페라떼에 아몬드를 더 해 고소함이 두배가 된 라떼",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_8.png",
+              "visualImg": "img_detail_visual_8.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nearby": true
+    },
+    {
+      "id": "theventi",
+      "logo": "logo_theventi",
+      "brand": "더벤티 신대방삼거리역점",
+      "infoList": {
+        "rating": 4.8,
+        "review": 71,
+        "distance": "25m"
+      },
+      "badge": [
+        {
+          "text": "적립",
+          "color": "pink"
+        }
+      ],
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "더벤티",
+        "delivery": "13~37분",
+        "location": "서울특별시 동작구 대방동 335-25 1층",
+        "location2": "대방동, 보광빌딩",
+        "time": "매일 09:20 ~ 21:30",
+        "closed": "연중무휴",
+        "introduce": "안녕하세요! 더벤티 신대방삼거리역점입니다 :) \n 더 맛있는 음료와 더 만족스러운 서비스로 보답하는 더벤티 신대방삼거리역점이 되겠습니다. 감사합니다."
+      },
+      "productList": [
+        {
+          "categoryId": "coffee",
+          "category": "커피",
+          "list": [
+            {
+              "productId": "1",
+              "name": "아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 2600,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 1400
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드시럽 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "바닐라 오트라떼",
+              "desc": "에스프레소와 바닐라 향을 부드럽게 즐길 수 있는 바닐라 오트라떼",
+              "price": 4900,
+              "thumbImg": "img_detail_thumb_2.png",
+              "visualImg": "img_detail_visual_2.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "아몬드시럽 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 샷추가",
+                      "price": 400
+                    },2
+                    {
+                      "option": "꿀 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 3700,
+              "thumbImg": "img_detail_thumb_3.png",
+              "visualImg": "img_detail_visual_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "우유옵션",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "우유(기본)",
+                      "price": 0
+                    },
+                    {
+                      "option": "두유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈로 변경",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드로 변경",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "선택한 우유 추가(50ml)",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "아인슈페너",
+              "desc": "고소하고 진한 커피 위에 바닐라빈의 풍미를 담은 쫀득한 수제 크림이 얹어져, 입안 가득 조화롭게 어우러지는 매력적인 크림 커피",
+              "price": 5300,
+              "thumbImg": "img_detail_thumb_4.png",
+              "visualImg": "img_detail_visual_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "두유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드 추가",
+                      "price": 800
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "decafein",
+          "category": "디카페인",
+          "list": [
+            {
+              "productId": "1",
+              "name": "디카페인 아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_5.png",
+              "visualImg": "img_detail_visual_5.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "디카페인 카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 4400,
+              "thumbImg": "img_detail_thumb_6.png",
+              "visualImg": "img_detail_visual_6.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "디카페인 꿀라떼",
+              "desc": "카페라떼와 꿀이 만나 입안에서 달콤하고 고소함을 한번에 즐길 수 있는 음료",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_7.png",
+              "visualImg": "img_detail_visual_7.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "디카페인 아몬드 라떼",
+              "desc": "카페라떼에 아몬드를 더 해 고소함이 두배가 된 라떼",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_8.png",
+              "visualImg": "img_detail_visual_8.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nearby": true
+    },
+    {
+      "id": "tomntoms",
+      "logo": "logo_tomntoms",
+      "brand": "탐앤탐스 삼모타워 신림역점",
+      "infoList": {
+        "rating": 3.9,
+        "review": 10,
+        "distance": "32m"
+      },
+      "imgVisual": "img_detail_store_visual.jpg",
+      "tel": "02-233-1243",
+      "detailInfo": {
+        "name": "탐앤탐스",
+        "delivery": "13~37분",
+        "location": "서울특별시 동작구 여의대방로 225길",
+        "location2": "대방동, 삼모타워",
+        "time": "매일 08:00 ~ 22:00",
+        "closed": "연중무휴",
+        "introduce": "안녕하세요! 탐앤탐스 삼모타워 신림역점입니다 :) 감사합니다."
+      },
+      "productList": [
+        {
+          "categoryId": "coffee",
+          "category": "커피",
+          "list": [
+            {
+              "productId": "1",
+              "name": "아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 2600,
+              "thumbImg": "img_detail_thumb_1.png",
+              "visualImg": "img_detail_visual_1.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 1400
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드시럽 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "바닐라 오트라떼",
+              "desc": "에스프레소와 바닐라 향을 부드럽게 즐길 수 있는 바닐라 오트라떼",
+              "price": 4900,
+              "thumbImg": "img_detail_thumb_2.png",
+              "visualImg": "img_detail_visual_2.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "아몬드시럽 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "바닐라시럽 샷추가",
+                      "price": 400
+                    },2
+                    {
+                      "option": "꿀 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 3700,
+              "thumbImg": "img_detail_thumb_3.png",
+              "visualImg": "img_detail_visual_3.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "사이즈 선택",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "M",
+                      "price": 0
+                    },
+                    {
+                      "option": "L",
+                      "price": 2100
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "우유옵션",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "우유(기본)",
+                      "price": 0
+                    },
+                    {
+                      "option": "두유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유로 변경",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈로 변경",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드로 변경",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "추가선택",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "에스프레소 샷추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "선택한 우유 추가(50ml)",
+                      "price": 400
+                    },
+                    {
+                      "option": "휘핑 추가",
+                      "price": 400
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "아인슈페너",
+              "desc": "고소하고 진한 커피 위에 바닐라빈의 풍미를 담은 쫀득한 수제 크림이 얹어져, 입안 가득 조화롭게 어우러지는 매력적인 크림 커피",
+              "price": 5300,
+              "thumbImg": "img_detail_thumb_4.png",
+              "visualImg": "img_detail_visual_4.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "추가선택",
+                  "required": false,
+                  "radioList": [
+                    {
+                      "option": "우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "두유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "저지방우유 추가",
+                      "price": 400
+                    },
+                    {
+                      "option": "아몬드브리즈 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "오트사이드 추가",
+                      "price": 800
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "categoryId": "decafein",
+          "category": "디카페인",
+          "list": [
+            {
+              "productId": "1",
+              "name": "디카페인 아메리카노",
+              "desc": "커피의 풍미를 천천히 간단하게 즐길 수 있는 음료",
+              "price": 3300,
+              "thumbImg": "img_detail_thumb_5.png",
+              "visualImg": "img_detail_visual_5.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "2",
+              "name": "디카페인 카페라떼",
+              "desc": "에스프레소에 우유를 더 해, 부드럽고 포만감을 느낄 수 있는 커피",
+              "price": 4400,
+              "thumbImg": "img_detail_thumb_6.png",
+              "visualImg": "img_detail_visual_6.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "3",
+              "name": "디카페인 꿀라떼",
+              "desc": "카페라떼와 꿀이 만나 입안에서 달콤하고 고소함을 한번에 즐길 수 있는 음료",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_7.png",
+              "visualImg": "img_detail_visual_7.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "productId": "4",
+              "name": "디카페인 아몬드 라떼",
+              "desc": "카페라떼에 아몬드를 더 해 고소함이 두배가 된 라떼",
+              "price": 4800,
+              "thumbImg": "img_detail_thumb_8.png",
+              "visualImg": "img_detail_visual_8.png",
+              "optionList": [
+                {
+                  "id": "0",
+                  "tit": "종류",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "HOT",
+                      "price": 0
+                    },
+                    {
+                      "option": "ICE",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "1",
+                  "tit": "얼음 양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "적게",
+                      "price": 0
+                    },
+                    {
+                      "option": "중간",
+                      "price": 0
+                    },
+                    {
+                      "option": "많이",
+                      "price": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "tit": "샷양",
+                  "required": true,
+                  "radioList": [
+                    {
+                      "option": "기본",
+                      "price": 0
+                    },
+                    {
+                      "option": "샷 추가",
+                      "price": 500
+                    },
+                    {
+                      "option": "샷 추가(2번)",
+                      "price": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "tit": "시럽추가",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "헤이즐럿 시럽추가",
+                      "price": 800
+                    },
+                    {
+                      "option": "시나몬 시럽추가",
+                      "price": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "tit": "우유변경",
+                  "required": false,
+                  "checkList": [
+                    {
+                      "option": "저지방우유",
+                      "price": 500
+                    },
+                    {
+                      "option": "락토프리우유",
+                      "price": 800
+                    },
+                    {
+                      "option": "오트밀두유",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nearby": true
+    }
+  ],
+  "event": [
+    {
+      "id": "1",
+      "txt": "취향을 담은 \n브랜드 상품권",
+      "img": "img_event_01.png",
+      "period": "2024.11.01 ~ 2024.11.30",
+      "detailImg": "img_event_detail_01.png"
+    },
+    {
+      "id": "2",
+      "txt": "생일인 친구에게 \n마음을 표현해요",
+      "img": "img_event_02.png",
+      "period": "2024.10.20 ~ 2024.12.30",
+      "detailImg": "img_event_detail_02.png"
+    },
+    {
+      "id": "3",
+      "txt": "취향을 담은 \n브랜드 상품권",
+      "img": "img_event_03.png",
+      "period": "2024.09.20 ~ 2024.10.30",
+      "detailImg": "img_event_detail_03.png"
+    }
+  ]
+}
